@@ -23,7 +23,6 @@ public class App {
         Tourist Jason = new Me();
 
         Jason.checkBudget();
-        System.out.print("where can my current budget take me?");
 
         boracay.accept(Jason);
 
